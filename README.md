@@ -13,4 +13,4 @@ In this repository there will be examples of chat bots. Different programming la
 + Python 
 
 ***
-Some bots will be ready by the end of February. 
+Some bots will be ready by the end of May. 
